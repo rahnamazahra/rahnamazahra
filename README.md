@@ -1,5 +1,5 @@
 # Hi 👋, I'm Zahra
-### A passionate Full-Stack Developer from Iran 🇮🇷
+### A passionate Full-Stack Developer
 
 [![Portfolio](https://img.shields.io/badge/My_Website-zrahnama.ir-%239F7AEA?style=flat&logo=globe&logoColor=white)](https://zrahnama.ir)
 [![View Resume](https://img.shields.io/badge/📄_View_Resume-PDF-blueviolet)](https://github.com/rahnamazahra/resume/blob/main/Resume.pdf)
