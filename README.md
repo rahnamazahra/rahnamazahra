@@ -1,5 +1,5 @@
 # Hi 👋, I'm Zahra
-### A passionate Full-Stack Developer
+### A passionate Backend Developer
 
 [![Portfolio](https://img.shields.io/badge/My_Website-zrahnama.ir-%239F7AEA?style=flat&logo=globe&logoColor=white)](https://zrahnama.ir)
 [![View Resume](https://img.shields.io/badge/📄_View_Resume-PDF-blueviolet)](https://github.com/rahnamazahra/resume/blob/main/Resume.pdf)
@@ -9,13 +9,10 @@
 ## 🚀 About Me
 
 - 🔭 I’m currently working on **Freelance Projects**
-- 🌱 I’m currently learning **React & Next.js**
 - 💻 My stack:  
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) 
   ![Laravel](https://img.shields.io/badge/Laravel-E74430?style=flat&logo=laravel&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
-  ![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61dafb)
-  ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
 - 📫 Reach me at: **rhnm.zahra@gmail.com**
 
@@ -46,7 +43,5 @@
 ---
 
 ## 🧠 Fun Facts
-
-- 🎨 I love clean UI/UX and meaningful animations  
 - 🛠 I'm always learning better ways to write clean & scalable code  
 - ✨ My goal: building projects that help people and solve real problems  
